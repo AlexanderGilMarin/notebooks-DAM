@@ -7,3 +7,4 @@ Notebooks fundamentos programacion Python
 4. LEGB Rules["notebook de LEGB"](./codigo_regla_LEGB.ipynb)
 5. Operaciones Basicas["Operaciones basicas"](./operaciones_basicas_diccionario.ipynb)
 6. Excepciones["Excepciones](./excepciones.ipynb)
+7. Conjuntos ["Conjuntos"](./conjuntos.ipynb)
