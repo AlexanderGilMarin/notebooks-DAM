@@ -8,3 +8,4 @@ Notebooks fundamentos programacion Python
 5. Operaciones Basicas["Operaciones basicas"](./operaciones_basicas_diccionario.ipynb)
 6. Excepciones["Excepciones](./excepciones.ipynb)
 7. Conjuntos ["Conjuntos"](./conjuntos.ipynb)
+8. Listas de Comprensiones ["Comprensiones"](./list_comprehensions.ipynb)
