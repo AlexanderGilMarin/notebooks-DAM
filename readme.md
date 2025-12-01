@@ -9,3 +9,4 @@ Notebooks fundamentos programacion Python
 6. Excepciones["Excepciones](./excepciones.ipynb)
 7. Conjuntos ["Conjuntos"](./conjuntos.ipynb)
 8. Listas de Comprensiones ["Comprensiones"](./list_comprehensions.ipynb)
+9. Funcional Programming tools ["Funcional_Tools](./functional_programming_tools.ipynb)
