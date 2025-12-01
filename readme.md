@@ -10,3 +10,4 @@ Notebooks fundamentos programacion Python
 7. Conjuntos ["Conjuntos"](./conjuntos.ipynb)
 8. Listas de Comprensiones ["Comprensiones"](./list_comprehensions.ipynb)
 9. Funcional Programming tools ["Funcional_Tools](./functional_programming_tools.ipynb)
+10. Comprehensions and generators["Comprehensions_and_generators"](./comprehensions_and_generators.ipynb)
